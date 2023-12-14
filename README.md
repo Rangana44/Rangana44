@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rangana44
 - 👀 I’m interested in ...Learning Coding
 - 🌱 I’m currently learning ...at SLIIT
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me ...maleesharangana456@gmail.com
 
 <!---
